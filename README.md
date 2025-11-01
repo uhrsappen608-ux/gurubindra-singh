@@ -59,12 +59,5 @@ Developed a full-stack library management app with CRUD operations, advanced sea
 
 ---
 
-### 📊 **GitHub Stats**
-![Gurubindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurubindra-singh-ai&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurubindra-singh-ai&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurubindra-singh-ai&theme=tokyonight)
-
----
-
 ⭐️ *“Data is the foundation of intelligence — I build bridges between data and decisions.”*
 
